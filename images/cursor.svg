@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 785 192.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Roboto-Medium, Roboto;
+        font-size: 110.08px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        opacity: .55;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".5" y=".5" width="784" height="191.4" rx="90.18" ry="90.18"/>
+  <text class="cls-1" transform="translate(90.48 128.37)"><tspan x="0" y="0">View p</tspan><tspan class="cls-2" x="329.59" y="0">r</tspan><tspan x="366.35" y="0">oject</tspan></text>
+</svg>
