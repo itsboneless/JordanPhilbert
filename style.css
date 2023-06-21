@@ -58,7 +58,12 @@ html {
     color:var(--higlights);
 
 }
-
+h1{
+    transition-delay: 200ms;
+}
+P{
+    transition-delay: 200ms;
+}
 .about-text a {
     padding-top: 50px;text-decoration: none;
 
@@ -528,6 +533,7 @@ button {
     }
     .text h1{
         font-size: 4rem;
+        transition-delay: 200ms;
     }
     .text p{
         font-size: 0.8rem;
